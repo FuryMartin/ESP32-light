@@ -1,0 +1,6 @@
+[submodule "ESP32-light-MCU"]
+	path = ESP32-light-MCU
+	url = https://github.com/FuryMartin/ESP32-light-MCU.git
+[submodule "ESP32-light-wechatapp"]
+	path = ESP32-light-wechatapp
+	url = https://github.com/FuryMartin/ESP32-light-wechatapp.git
